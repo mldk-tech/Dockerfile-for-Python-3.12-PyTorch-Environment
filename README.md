@@ -19,3 +19,7 @@ Dockerfile:
 4.  Once the build is complete, you can run a container:
     `docker run -it --rm python-pytorch-env bash`
     (This starts an interactive bash shell in the container.)
+
+Inside the container with eval.py file, you can verify the installations
+
+This will give you a clean environment with Python 3.12 and the specified libraries.
