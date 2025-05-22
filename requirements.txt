@@ -1,0 +1,3 @@
+pandas
+numpy
+# torch, torchvision, torchaudio are installed directly in the Dockerfile
